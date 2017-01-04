@@ -1,2 +1,4 @@
-# qzdoom-macos-devbuilds
-QZDoom: Development builds for macOS 
+## QZDoom: Development builds for macOS
+
+|Version / Link|SHA-256 Checksum|
+|---|---|

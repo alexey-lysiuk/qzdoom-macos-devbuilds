@@ -15,3 +15,4 @@
 |[`q1.3pre-168-g82ee9e7`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.3pre-168-g82ee9e7/qzdoom-q1.3pre-168-g82ee9e7.dmg)|`f97b1443ac3d8e097afd40367b3aa9fa6953fd7855623936592395b040da0595`|
 |[`q1.2.2`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.2.2/qzdoom-q1.2.2.dmg)|`76308c26e7dea898f01379d4887eab5931156ffccf5dcd20be4026dae0b66ead`|
 |[`q1.3pre-194-g1b750c1`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.3pre-194-g1b750c1/qzdoom-q1.3pre-194-g1b750c1.dmg)|`fedc50ba529bf715b96c49c8be2fb3b07110dec9a4a2753cc4bed8df8ebcca10`|
+|[`q1.3pre-226-g8260bbb`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.3pre-226-g8260bbb/qzdoom-q1.3pre-226-g8260bbb.dmg)|`4258b90f53d6778cc093797b9ac1ff5c6b389d25e288312a06e3925da312ad80`|

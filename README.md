@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`q1.4.0.1pre-36-g2338fe7`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.4.0.1pre-36-g2338fe7/qzdoom-q1.4.0.1pre-36-g2338fe7.dmg)|`0c2011a11c1a275014aa480683f430848c2934233a05861c617a84ed65ad7f6d`|
 |[`q1.3pre-1534-gf5e1502`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.3pre-1534-gf5e1502/qzdoom-q1.3pre-1534-gf5e1502.dmg)|`0a86e64e9dea1213a35cf2c29ebab17b4942266212447ec93c7624be7cdd8f3a`|
 |[`q1.3pre-1521-g2063813`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.3pre-1521-g2063813/qzdoom-q1.3pre-1521-g2063813.dmg)|`c35256e1f2e2d4450a85d4cb600c7c5280cc24170171f176cdf6e0a4d3355f0f`|
 |[`q1.4pre-139-g3be1962`](https://github.com/alexey-lysiuk/qzdoom-macos-devbuilds/releases/download/q1.4pre-139-g3be1962/qzdoom-q1.4pre-139-g3be1962.dmg)|`c9d28a1ead8c42e4208d37355bae88c25b5d06faeaf31f6c4c01963e2ec20f1f`|
